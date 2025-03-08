@@ -1,0 +1,81 @@
+/*  element selector */
+/* these are those selector which are begin targeted
+by their names directly */
+body{
+    font-family: 'courier new', courier, monospace;
+    border:2px solid black;
+}
+header{
+    background-color:white;
+   border: 2px solid black;
+
+}
+.yellow{
+    
+    background-color: white;
+    border: 2px solid black;
+    
+}
+.projectcontaner1{
+    background-color: white;
+    border: 2px solid black;
+    padding-left: 10px;
+    
+}
+.red{
+    background-color: white;
+    border: 2px solid black;
+    
+}
+#table{
+    background-color: white;
+    border: 2px solid black;
+    margin: 10px;
+
+}
+/* border are the best debuger */
+.projectcontaner2{
+    background-color: white;
+    border: 2px solid black;
+    padding-left:10px ;
+
+}
+.pink{
+    background-color: white;
+    border: 2px solid black;
+
+}
+.balck{
+    background-color: white;
+    border: 2px solid black;
+   
+}
+.projectcontaner3{
+    background-color: white;
+    border: 2px solid black;
+    padding-left: 10px;
+}
+.orange{
+    background-color: white;
+    border: 2px solid black;
+   
+    
+}
+.projectcontaner4{
+    background-color: white;
+    border: 2px solid black;
+    padding-left: 10px;
+
+}
+
+footer{
+
+    background-color:white;
+    border: 2px solid black;
+    padding-left: 10px;
+}
+
+/* class selector */
+/* when use .(dot) it signifies that u 
+are refering to the class selector
+# are specifies id */
